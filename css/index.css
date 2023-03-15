@@ -208,7 +208,7 @@ main .infoText {
     }
 }
 
-@media (max-width: 380px) {
+@media (max-width: 400px) {
     .menu #menuBtn {
         display: block;
     }
