@@ -92,7 +92,7 @@ body {
     overflow-x: hidden; 
     width: 100%;
     height: calc(100vh - 70px);
-    background-image: url(./img/profilecombine.png);
+    background-image: url(/img/profilecombine.png);
     background-repeat: no-repeat;
     background-position: left center;
     display: flex;
